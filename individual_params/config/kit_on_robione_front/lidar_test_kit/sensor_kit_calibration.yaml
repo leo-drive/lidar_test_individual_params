@@ -7,16 +7,16 @@ sensor_kit_base_link:
     pitch: 0.0
     yaw: 0.0
   rs_bpearl_v3_base_link:
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    roll: 0.0
-    pitch: 0.0
-    yaw: 0.0
+    x: -0.252877
+    y: 0.0647699
+    z: -0.152866
+    roll: -2.08737
+    pitch: -1.58126
+    yaw: 0.503426
   rs_bpearl_v4_base_link:
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    roll: 0.0
-    pitch: 0.0
-    yaw: 0.0
+    x: 0.217472
+    y: 0.0794919
+    z: -0.162619
+    roll: -2.64772
+    pitch: -1.57532
+    yaw: 1.06353
